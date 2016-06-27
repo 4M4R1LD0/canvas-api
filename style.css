@@ -1,0 +1,29 @@
+#container{
+	height: 38em;
+	width: 100%;
+	margin-top: -20px;
+
+	border-style: solid;
+	border-color: #1C1C1C;
+
+	border-width: 1px;
+}
+
+#screen{
+	background-color: #7CFC00;
+}
+
+
+#container2{
+	height: 10em;
+	width: 100%;
+
+	border-style: solid;
+	border-color: #1C1C1C;
+
+	border-width: 1px;
+}
+
+#screen2{
+	background-color: black;
+}
