@@ -1,5 +1,6 @@
-******** ApiCavas ********
+﻿******** ApiCanvas ********
 
+Teste do git
 É uma API baseada na orientação a objetos destinada a facilitar os trabalhos com canvas.
 
 Composta por objetos que devem ser instanciados, e manipulados sem a necessidade de manipular diretamente a tela de desenho canvas
